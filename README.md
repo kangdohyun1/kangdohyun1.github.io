@@ -2,4 +2,3 @@
 
 20221008 강도현
 [**homework2-1**](https://kangdohyun1.github.io/homework2-1.html).
-[**homework2**](https://kangdohyun1.github.io/homework2.html).
