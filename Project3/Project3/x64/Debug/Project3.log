@@ -1,0 +1,7 @@
+﻿  practice.cpp
+C:\Users\kdheu\source\repos\Project3\Project3\practice.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\kdheu\source\repos\Project3\Project3\FileName.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'practice.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\kdheu\source\repos\Project3\Project3\practice.cpp(8,11): warning C4101: 'loadedData' :참조되지 않은 지역 변수입니다.
+  Project3.vcxproj -> C:\Users\kdheu\source\repos\Project3\x64\Debug\Project3.exe
